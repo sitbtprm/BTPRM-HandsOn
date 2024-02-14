@@ -6,7 +6,7 @@ Model Enterprise Responsibilities for a Business User in Cloud - BTP
 
 ## Overview
 
-Come and experience how Responsibility Management service in BTP is now helping BTP app to model enterprise responsibilities for a user easily. With it’s strong Query APIs and easy modelling of data , the RM service will soon become the central place for responsibility modelling for business user.
+Come and experience how Responsibility Management service in BTP is now helping BTP app to model enterprise responsibilities for a user easily. With it’s strong Query APIs and easy modelling of data , the RM service will soon become the central place for responsibility modelling for business user
 
 ![Alt text](images/use-case.png)
 
