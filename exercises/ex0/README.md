@@ -14,5 +14,5 @@ Employee places an order > Agent determination is triggered based on the cost in
 |-----------------   |--------------    |-----------------------------------------------------------        |
 |Responsibility Management Service, BTP > Manage Teams and Responsibilities|_BusinessProcessSpecialistResponsibilityManagement_|1.	Create a team, _TEST_APPROVER_, for Team Category, _Procurement_, Team Type, _Operational Purchasing_. 2.	Add two team members: _Dakshayani R _and _JohnProcurementApprover_. 3.	Assign functions to team members: - Dakshayani R: _Purchasing Manager_ - JohnProcurementApprover: _Operational Purchaser_|
 |SAP Ariba Buying > Create Purchase Request|Employee|1. Order an equipment above Rs 1000 2.	Check the status of your request.|
-|My Inbox|- Operational Purchaser - Purchasing Manager|1. Approve the request (L1). 2. Approve the request (L2).|
+|My Inbox|Operational Purchaser, Purchasing Manager|1. Approve the request (L1). 2. Approve the request (L2).|
 |Monitor Workflows|Employee|View logs for your approval tasks.|
