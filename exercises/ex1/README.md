@@ -1,5 +1,5 @@
 # Create a Team
-1.	Log on to the **Manage Teams and Responsibilities** app with the user role _BusinessProcessSpecialistResponsibilityManagement_.
+1.	Log on to the **Manage Teams and Responsibilities** app with a user who has the role _BusinessProcessSpecialistResponsibilityManagement_ assigned.
 ![Login Screen](https://github.com/sitbtprm/BTPRM-HandsOn/assets/122516873/04de989b-1d02-48d4-a2d9-f86d65d21cb8)
 
 2. (Optional) View the list of existing teams.
