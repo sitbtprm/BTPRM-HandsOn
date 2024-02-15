@@ -6,7 +6,7 @@ An employee orders IT equipment (mouse, keyboard, monitor).
 In this use case, the cost of the equipment ordered by the employee is more than Rs 1000. Therefore, the employee can receive the ordered equipment, only when both the approvals (multi-level approval) are complete.  
 
 # Expected Flow
-Employee places an order > Agent determination is triggered based on the cost involved – in this case, it is a multi-level approval process since the amount exceeds Rs 1000 > Agents are determined based on the functions defined for team members in a team > The approval request is first goes to the team member for L1 approval > The approval request then goes to the team member for L2 approval > Order request is approved once both approvals are obtained.
+Employee places an order > Agent determination is triggered based on the cost involved – in this case, it is a multi-level approval process since the amount exceeds Rs 1000 > Agents are determined based on the responsibility definitions maintained in the team as well as the functions defined for team members in a team > The approval request is first goes to the team member for L1 approval > The approval request then goes to the team member for L2 approval > Order request is approved once both approvals are obtained.
 
 # Apps, Personas/Roles, and Tasks
 
