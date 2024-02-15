@@ -1,6 +1,6 @@
 # Approve L1 Request
 
-1.	Access the **My Inbox** app as _JohnProcurementApprover_.
+1.	Access the **My Inbox** app by logging in as _JohnProcurementApprover_.
 2.	Search by the **Request ID**.
 3.	Approve the request. 
 
