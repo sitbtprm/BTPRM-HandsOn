@@ -1,4 +1,4 @@
-# Understand the scenario
+# Understand the Scenario
 An employee orders IT equipment (mouse, keyboard, monitor). 
 - If the order amount is less than Rs 1000, the _Operational Manager_ should approve it.
 - If the order amount is more than Rs 1000, then the _Operational Manager_ should approve it first (L1), and then the _Purchasing Manager_ should approve it next (L2).
