@@ -1,6 +1,6 @@
 # Add Team Members and Assign Functions
 1.	From the **Team Members** tab, choose **Create**.
-2.	Select the user, _Dakshayani R_, from the value help and choose **OK**.
+2.	Select the user,having username Manager, from the value help and choose **OK**.
    The selected team member is added to the team.
 3. From the **Functions** field, select _Purchasing Manager_ from the value help to assign it to the team member.
    ![Functions](https://github.com/sitbtprm/BTPRM-HandsOn/assets/122516873/f5c33c29-e3bd-42b5-8a59-914ac31c80f6)
